@@ -1,1 +1,1 @@
-## Machine Learning Projects 
+## Machine Learning Algorithms and their implementations
